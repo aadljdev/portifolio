@@ -53,7 +53,7 @@ const projects = [
     filter: "site",
     url: "https://www.corretorasanches.com.br",
     host: "corretorasanches.com.br",
-    blurb: "Site institucional de corretora de seguros em Rio Claro, com páginas de serviços e contato.",
+    blurb: "Site institucional de corretora de seguros, com páginas de serviços e contato.",
     tech: ["Next.js", "React"],
     features: ["Site institucional", "Páginas de seguros", "Contato", "SEO"],
     poster: "sanches",

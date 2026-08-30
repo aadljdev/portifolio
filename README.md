@@ -2,7 +2,7 @@
 
 **Site:** [portifolio-kappa-nine-56.vercel.app](https://portifolio-kappa-nine-56.vercel.app/)
 
-Desenvolvedor Full Stack em Rio Claro / Brasil.
+Desenvolvedor Full Stack.
 
 Este repositório é a vitrine pública dos produtos que já estão no ar. Os demais projetos ficam em repositórios privados por serem sistemas comerciais.
 
